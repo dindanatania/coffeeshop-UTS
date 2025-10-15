@@ -1,6 +1,11 @@
 [
     {
-        "coffee_id;coffee_title;coffee_detail;coffee_thumbnails;coffee_poster":" sweet steamed milk over it.;caffe_latte_thumbnail.png;caffe_latte_poster.jpg"
+        "coffee_id: 1,
+        coffee_title: 
+        coffee_detail:
+        coffee_thumbnails:
+        coffee_poster:" https://raw.githubusercontent.com/dindanatania/coffeeshop-UTS/main/images/caffe_latte_poster.jpg"
+"
     },
     {
         "coffee_id;coffee_title;coffee_detail;coffee_thumbnails;coffee_poster":null
